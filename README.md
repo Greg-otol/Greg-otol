@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/97900313/234376073-a029e7cc-ba49-4fe2-bfbe-12cbc58499fe.png)
+
 ## Olá, meu nome é Gregório Neto
 
 ### Atualmente sou Desenvolvedor Fullstak Junior com conhecimento em:
