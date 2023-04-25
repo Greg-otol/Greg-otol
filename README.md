@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/97900313/234376073-a029e7cc-ba49-4fe2-bfbe-12cbc58499fe.png)
+![banner](https://user-images.githubusercontent.com/97900313/234378745-bd0da62e-2bd4-4f97-80a6-7cb3e0853e94.png)
 
 ## Olá, meu nome é Gregório Neto
 
@@ -22,7 +22,7 @@
 * CSS3 (Styled Components)
 * Angular (Estudando)
 
-### Curiosidades sobre mim
+## Curiosidades sobre mim
 
 * Atualmente concluí um curso técnico de Desenvolvedor Fullstak pela empresa Blueedtech
 * No último módulo do curso, participei de dois Bootcamp onde tive a oportunidade de aprender a dinâmica do trabalho em equipe entregando a resolução dos problemas propostos pelas empresas participante, tanto o Backend (API Rest) quanto o Frontend (Aplicação)
