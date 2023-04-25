@@ -2,6 +2,10 @@
 
 ## Olá, meu nome é Gregório Neto
 
+### Contato
+* LinkedIn: https://www.linkedin.com/in/gregoriogeotol/
+* E-mail: gregoriogrgeotavia@hotmail.com
+
 ### Atualmente sou Desenvolvedor Fullstak Junior com conhecimento em:
 
 #### Backend:
