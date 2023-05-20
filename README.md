@@ -8,11 +8,12 @@
 * NodeJS
 * ExpressJS
 * NestJS
-* C# .Net (Entity Framework)
+* C# .Net Core (Entity Framework)
 * SQL Server
 * PostgreSQL
 * MySQL
 * MongoDB
+* Java (Estudando)
 
 #### Frontend:
 * React
