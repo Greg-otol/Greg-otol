@@ -1,4 +1,4 @@
-## Olá, meu nome é Gregório Neto
+## Olá, me chamo Gregório Neto
 
 ### Atualmente sou Desenvolvedor Fullstak Junior com conhecimento em:
 
